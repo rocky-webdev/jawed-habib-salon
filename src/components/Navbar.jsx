@@ -32,7 +32,7 @@ export const Navbar = ({ onOpenBooking }) => {
           />
           <div className="brand-text-wrap">
             <span className="brand-title">The Jawed Habib</span>
-            <span className="brand-subtitle">AIRPORT, DUM DUM</span>
+            <span className="brand-subtitle">SALON</span>
           </div>
         </a>
 

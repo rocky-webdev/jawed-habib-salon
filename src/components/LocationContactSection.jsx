@@ -107,7 +107,7 @@ export const LocationContactSection = ({ onOpenBooking }) => {
           <div className="location-map-card">
             <div className="map-frame-wrapper">
               <iframe
-                title="The Jawed Habib airport location map"
+                title="The Jawed Habib Salon location map"
                 src="https://maps.google.com/maps?q=1+No+Gate,+24/47+Jessore+Rd,+Airport,+Dum+Dum,+West+Bengal+700028&t=&z=15&ie=UTF8&iwloc=&output=embed"
                 width="100%"
                 height="100%"

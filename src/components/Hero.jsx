@@ -69,7 +69,7 @@ export const Hero = ({ onOpenBooking }) => {
             <div className="hero-card-featured">
               <img 
                 src="https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=1100&q=80" 
-                alt="Styling in progress at The Jawed Habib airport salon" 
+                alt="Styling in progress at The Jawed Habib Salon" 
                 className="hero-main-image"
                 loading="eager"
                 fetchPriority="high"

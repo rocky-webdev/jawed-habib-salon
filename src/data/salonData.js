@@ -1,12 +1,12 @@
 /**
- * The Jawed Habib airport - Centralized Salon Data
+ * The Jawed Habib Salon - Centralized Salon Data
  * 
  * NOTE: All business information, services, gallery images, reviews,
  * and FAQs are stored here. Update this file to modify any website content.
  */
 
 export const salonInfo = {
-  name: "The Jawed Habib airport",
+  name: "The Jawed Habib Salon",
   shortName: "The Jawed Habib",
   branch: "Airport, Dum Dum",
   category: "Hair / Beauty Salon",
@@ -262,7 +262,7 @@ export const aboutSalon = {
   headline: "Crafting Hair & Care Grounded in Refinement",
   subheadline: "Your neighborhood salon at 1 No Gate, Jessore Road, Dum Dum.",
   paragraphs: [
-    "At The Jawed Habib airport, we believe grooming is more than routine—it is a thoughtful reflection of how you present yourself to the world.",
+    "At The Jawed Habib Salon, we believe grooming is more than routine—it is a thoughtful reflection of how you present yourself to the world.",
     "Located conveniently on Jessore Road near Airport 1 No Gate, our salon offers a welcoming sanctuary from the rush of the city. We focus on modern hair design, restorative treatments, and hygienic grooming services suited for both men and women.",
     "Whether you are stepping in for a quick maintenance trim, an extensive restorative hair spa, or a bespoke colour transformation, our staff takes the time to consult with you personally to achieve results that feel natural, manageable, and uniquely yours."
   ],

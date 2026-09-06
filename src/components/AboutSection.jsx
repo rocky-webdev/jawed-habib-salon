@@ -12,7 +12,7 @@ export const AboutSection = ({ onOpenBooking }) => {
             <div className="about-image-wrapper">
               <img 
                 src="https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?auto=format&fit=crop&w=900&q=80" 
-                alt="Modern, clean salon interior at The Jawed Habib airport" 
+                alt="Modern, clean salon interior at The Jawed Habib Salon" 
                 className="about-image-primary"
                 loading="lazy"
                 width="540"

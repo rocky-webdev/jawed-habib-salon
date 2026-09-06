@@ -21,7 +21,7 @@ export const Footer = () => {
               />
               <div className="footer-brand-text">
                 <span className="footer-brand-title">{salonInfo.shortName}</span>
-                <span className="footer-brand-sub">AIRPORT, DUM DUM</span>
+                <span className="footer-brand-sub">SALON</span>
               </div>
             </div>
             <p className="footer-tagline">{salonInfo.subheading}</p>
